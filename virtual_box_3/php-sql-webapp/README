@@ -1,0 +1,14 @@
+Hi!
+
+1. run populate.sql in MySQL to populate the database with relevent data.
+
+2. Edit PROTO2URLPAGE.php and DETAILS.php to include your mySQL credentials.
+
+3. OPEN PROTO2START on the the same server as the MySQL database.
+
+You can search for the different spatulas within the webpage by attribute. 
+Submitting leads to a results page which matches the details input by the user.
+
+KARIM KHAIRAT
+
+Background image licensed under CC2 Some Rights reserved. Tim Jagenberg "Spatula Color Wave" November 5, 2011

@@ -1,0 +1,1 @@
+note to self, connect to ip SECOND_MACHINE_IP/PimpMyLog only with mac 74:df:bf:81:1a:19
