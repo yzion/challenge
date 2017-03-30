@@ -1,0 +1,18 @@
+[Thu Mar 16 07:38:40.069917 2017] [mpm_prefork:notice] [pid 1222] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 16 07:38:40.069974 2017] [core:notice] [pid 1222] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 16 10:51:06.073528 2017] [:error] [pid 1240] [client 192.168.0.26:35282] script '/var/www/html/pdf_merge.php3' not found or unable to stat
+sh: 1: cannot create sss.txt: Permission denied
+[Thu Mar 16 11:03:35.540655 2017] [:error] [pid 2067] [client 192.168.0.26:38286] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/pdf_merge.php on line 59, referer: http://192.168.0.13/pdf_merge.php
+sh: 1: cannot create asd.txt: Permission denied
+[Thu Mar 16 11:08:57.128136 2017] [:error] [pid 1240] [client 192.168.0.26:39786] PHP Parse error:  syntax error, unexpected '~', expecting ',' or ')' in /var/www/html/pdf_merge.php on line 57, referer: http://192.168.0.13/pdf_merge.php
+[Thu Mar 16 11:09:22.099765 2017] [:error] [pid 1239] [client 192.168.0.26:39892] PHP Parse error:  syntax error, unexpected '', $retval);' (T_ENCAPSED_AND_WHITESPACE), expecting ',' or ')' in /var/www/html/pdf_merge.php on line 57
+[Thu Mar 16 11:09:23.013496 2017] [:error] [pid 1238] [client 192.168.0.26:39894] PHP Parse error:  syntax error, unexpected '', $retval);' (T_ENCAPSED_AND_WHITESPACE), expecting ',' or ')' in /var/www/html/pdf_merge.php on line 57
+sh: 1: cannot create ~/asdF.txt: Directory nonexistent
+sh: 1: cannot create ~/asdF.txt: Directory nonexistent
+sh: 1: cannot create ~/asdf.txt: Directory nonexistent
+sh: 1: cannot create ~/muli.txt: Directory nonexistent
+sh: 1: cannot create ~/muli.txt: Directory nonexistent
+sh: 1: cannot create /var/www/html/users/son: Permission denied
+sh: 1: cannot create /var/www/html/users/son.txt: Permission denied
+[Thu Mar 16 12:22:03.837949 2017] [mpm_prefork:notice] [pid 1248] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Thu Mar 16 12:22:03.838398 2017] [core:notice] [pid 1248] AH00094: Command line: '/usr/sbin/apache2'
